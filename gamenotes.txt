@@ -1,0 +1,20 @@
+
+2:20 PM 30/3/2018
+
+https://appliedgo.net/networking/
+https://golang.org/pkg/net/#example_Listener
+https://ipfs.io/ipfs/QmfYeDhGH9bZzihBUDEQbCbTc5k5FZKURMUoUvfmc27BwL/applevelprotocols/simple_example.html
+
+Scissors Paper Stone network game using Ebiten   26.3.2018
+
+server with several clients
+
+determine game outcome
+
+simple GUI 
+
+
+
+
+
+
